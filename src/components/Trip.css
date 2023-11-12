@@ -37,7 +37,7 @@
     border-radius: 7px;
 }
 .t-image:hover img{
-    transform: scale(1.3);
+    transform: scale(0.8);
 
 }
 .t-card h4
